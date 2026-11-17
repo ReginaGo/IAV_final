@@ -7269,7 +7269,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9254cc917cd70f74db5baccaa7c87193, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nombreDeEscenaJuego: MainScene
+  nombreDeEscenaJuego: MonsterSandbox
   panelFade: {fileID: 1564281622}
   duracionFade: 2
   controlsPanel: {fileID: 251330781}
