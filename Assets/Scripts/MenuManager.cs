@@ -6,7 +6,7 @@ using System.Collections;
 public class MenuManager : MonoBehaviour
 {
     [Header("Configuración de Escenas")]
-    public string nombreDeEscenaJuego = "MainScene";
+    public string nombreDeEscenaJuego = "MonsterSandbox";
 
     [Header("Configuración de Fade")]
     public Image panelFade;
